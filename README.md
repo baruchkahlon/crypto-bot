@@ -92,19 +92,3 @@ For more information see the [wiki](https://github.com/manu354/arbitrage/wiki/Ho
 * [Azure](http://ccarbitrage.azurewebsites.net/) - hosts the backend (directly from this github repo)
 * [Github Pages](https://manu354.github.io/cryptocurrency-arbitrage/) - hosts the beautiful frontend :) (gets data from hosted node instance on azure)
 
-## Contributing
-
-Feel free to suggest edits / pull requests or email me at manummasson8@gmail.com
-
-## Authors
-
-* **Manu Masson** - *Initial work* 
-
-## License
-
-See the [LICENSE.md](LICENSE.md) file for details
-
-## Donating
-
-BTC: 1DpMyyPoBSVNZqhM6d4k1TdYun1XpXaeMo
-LTC: LVXCvcV52unCdcqvyvKp6mC6AAVur1EZ57
